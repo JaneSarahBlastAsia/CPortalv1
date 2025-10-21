@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CPortalv1.props" />
+</Project>

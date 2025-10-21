@@ -1,0 +1,6 @@
+@CPortalv1_HostAddress = http://localhost:5080
+
+GET {{CPortalv1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

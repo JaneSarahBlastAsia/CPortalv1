@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "/app/source/code/wwwroot/code-generation.log",
+      "PackagePath": "staticwebassets/code-generation.log"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/css/customer-account-management/account-profile-for-customer.css",
+      "PackagePath": "staticwebassets/css/customer-account-management/account-profile-for-customer.css"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/css/customer-account-management/update-password-for-customer.css",
+      "PackagePath": "staticwebassets/css/customer-account-management/update-password-for-customer.css"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/css/site.min.css",
+      "PackagePath": "staticwebassets/css/site.min.css"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/customer-account-management/account-profile-for-customer.html",
+      "PackagePath": "staticwebassets/customer-account-management/account-profile-for-customer.html"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/customer-account-management/update-password-for-customer.html",
+      "PackagePath": "staticwebassets/customer-account-management/update-password-for-customer.html"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/html-generation-metadata.json",
+      "PackagePath": "staticwebassets/html-generation-metadata.json"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/js/common-script.js",
+      "PackagePath": "staticwebassets/js/common-script.js"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/js/customer-account-management/account-profile-for-customer.js",
+      "PackagePath": "staticwebassets/js/customer-account-management/account-profile-for-customer.js"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/js/customer-account-management/update-password-for-customer.js",
+      "PackagePath": "staticwebassets/js/customer-account-management/update-password-for-customer.js"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/js/menu-config.json",
+      "PackagePath": "staticwebassets/js/menu-config.json"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/scss/design.scss",
+      "PackagePath": "staticwebassets/scss/design.scss"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/scss/site.scss",
+      "PackagePath": "staticwebassets/scss/site.scss"
+    },
+    {
+      "Id": "/app/source/code/wwwroot/scss/variables.scss",
+      "PackagePath": "staticwebassets/scss/variables.scss"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.CPortalv1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.CPortalv1.props",
+      "PackagePath": "build\\CPortalv1.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.CPortalv1.props",
+      "PackagePath": "buildMultiTargeting\\CPortalv1.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.CPortalv1.props",
+      "PackagePath": "buildTransitive\\CPortalv1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
