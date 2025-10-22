@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CPortalv1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6676715189a3667723ab601539fb04fc5e522a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CPortalv1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CPortalv1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
